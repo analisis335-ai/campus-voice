@@ -247,11 +247,12 @@ Project ini dikembangkan untuk kebutuhan pembelajaran mata kuliah **Rekayasa Per
 
 | Nama | Peran | Tanggung Jawab |
 |---|---|---|
-| Muhammad Adhit Asis | Scrum Master | Fitur Admin, kerangka aplikasi |
-| Kenzo Wiliam | Developer 1 | Akun, halaman awal, dan postingan |
-| Naufal Abdillah | Developer 2 | Pendaftaran, dashboard, dan kotak masuk |
-| Deris Apriliansyah | Developer 3 | Login, pengaturan, dan halaman awal/welcome |
-| Fadhil Akbar Burhanuddin | Product Owner | Dokumentasi project (README) |
+| Muhammad Adhit Asis | Scrum Master | autentikasi multi-peran dan kerangka aplikasi |
+| Kenzo Wiliam | Developer 1 | linimasa-aspirasi |
+| Naufal Abdillah | Developer 2 |bukti-penyelesaian |
+| Deris Apriliansyah | Developer 3 | moderasi-Fitur admin |
+| Fadhil Akbar Burhanuddin | Product Owner | Dokumentasi project (README) dan dokumentasi-layout|
+| Deni| Developer 4 | Pelengkap Fitur Admin (Tidak bekerja)|
 
 ---
 
